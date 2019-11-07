@@ -1,0 +1,75 @@
+{
+  "frames": {
+    "green_meter_bar1": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 17,
+        "h": 46
+      },
+      "rotated": false,
+      "trimmed": false,
+      "sourceSize": {
+        "w": 17,
+        "h": 46
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 17,
+        "h": 46
+      }
+    },
+    "green_meter_bar2": {
+      "frame": {
+        "x": 17,
+        "y": 0,
+        "w": 30,
+        "h": 46
+      },
+      "rotated": false,
+      "trimmed": false,
+      "sourceSize": {
+        "w": 30,
+        "h": 46
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 30,
+        "h": 46
+      }
+    },
+    "green_meter_bar3": {
+      "frame": {
+        "x": 47,
+        "y": 0,
+        "w": 17,
+        "h": 46
+      },
+      "rotated": false,
+      "trimmed": false,
+      "sourceSize": {
+        "w": 17,
+        "h": 46
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 17,
+        "h": 46
+      }
+    }
+  },
+  "meta": {
+    "app": "manual",
+    "version": "1.0",
+    "image": "green_meter_bar.png",
+    "format": "RGBA888888",
+    "size": {
+      "w": 64,
+      "h": 46
+    },
+    "scale": "1"
+  }
+}

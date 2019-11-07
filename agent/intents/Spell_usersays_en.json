@@ -1,0 +1,62 @@
+[
+  {
+    "id": "0c563273-d405-44ac-90fe-50e56a4a27af",
+    "data": [
+      {
+        "text": "create a spell",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4befe219-e9ae-4f10-b47f-c84aa3332b31",
+    "data": [
+      {
+        "text": "give a spell",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "779081a5-5241-4d70-ad20-47e542281b4d",
+    "data": [
+      {
+        "text": "make a spell",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "38729e52-77d5-4fad-940d-24cb97461360",
+    "data": [
+      {
+        "text": "spell",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ab8a5d14-8f31-4583-b36c-b9bc6e6f64fd",
+    "data": [
+      {
+        "text": "cast a spell",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

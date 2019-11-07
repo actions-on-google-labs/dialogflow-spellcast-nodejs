@@ -1,0 +1,215 @@
+{
+  "frames": {
+    "water_elemental_attack1": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 462,
+        "h": 373
+      },
+      "rotated": false,
+      "trimmed": false,
+      "sourceSize": {
+        "w": 462,
+        "h": 373
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 462,
+        "h": 373
+      }
+    },
+    "water_elemental_attack2": {
+      "frame": {
+        "x": 462,
+        "y": 0,
+        "w": 462,
+        "h": 373
+      },
+      "rotated": false,
+      "trimmed": false,
+      "sourceSize": {
+        "w": 462,
+        "h": 373
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 462,
+        "h": 373
+      }
+    },
+    "water_elemental_attack3": {
+      "frame": {
+        "x": 0,
+        "y": 373,
+        "w": 462,
+        "h": 373
+      },
+      "rotated": false,
+      "trimmed": false,
+      "sourceSize": {
+        "w": 462,
+        "h": 373
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 462,
+        "h": 373
+      }
+    },
+    "water_elemental_attack4": {
+      "frame": {
+        "x": 462,
+        "y": 373,
+        "w": 462,
+        "h": 373
+      },
+      "rotated": false,
+      "trimmed": false,
+      "sourceSize": {
+        "w": 462,
+        "h": 373
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 462,
+        "h": 373
+      }
+    },
+    "water_elemental_attack5": {
+      "frame": {
+        "x": 0,
+        "y": 746,
+        "w": 462,
+        "h": 373
+      },
+      "rotated": false,
+      "trimmed": false,
+      "sourceSize": {
+        "w": 462,
+        "h": 373
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 462,
+        "h": 373
+      }
+    },
+    "water_elemental_attack6": {
+      "frame": {
+        "x": 462,
+        "y": 746,
+        "w": 462,
+        "h": 373
+      },
+      "rotated": false,
+      "trimmed": false,
+      "sourceSize": {
+        "w": 462,
+        "h": 373
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 462,
+        "h": 373
+      }
+    },
+    "water_elemental_attack7": {
+      "frame": {
+        "x": 0,
+        "y": 1119,
+        "w": 462,
+        "h": 373
+      },
+      "rotated": false,
+      "trimmed": false,
+      "sourceSize": {
+        "w": 462,
+        "h": 373
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 462,
+        "h": 373
+      }
+    },
+    "water_elemental_attack8": {
+      "frame": {
+        "x": 462,
+        "y": 1119,
+        "w": 462,
+        "h": 373
+      },
+      "rotated": false,
+      "trimmed": false,
+      "sourceSize": {
+        "w": 462,
+        "h": 373
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 462,
+        "h": 373
+      }
+    },
+    "water_elemental_attack9": {
+      "frame": {
+        "x": 0,
+        "y": 1492,
+        "w": 462,
+        "h": 373
+      },
+      "rotated": false,
+      "trimmed": false,
+      "sourceSize": {
+        "w": 462,
+        "h": 373
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 462,
+        "h": 373
+      }
+    },
+    "water_elemental_attack10": {
+      "frame": {
+        "x": 462,
+        "y": 1492,
+        "w": 462,
+        "h": 373
+      },
+      "rotated": false,
+      "trimmed": false,
+      "sourceSize": {
+        "w": 462,
+        "h": 373
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 462,
+        "h": 373
+      }
+    }
+  },
+  "meta": {
+    "app": "manual",
+    "version": "1.0",
+    "image": "water_elemental_attack.png",
+    "format": "RGBA888888",
+    "size": {
+      "w": 1024,
+      "h": 2048
+    },
+    "scale": "1"
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "frames": {
+    "earth_elemental_hit1": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 327,
+        "h": 305
+      },
+      "rotated": false,
+      "trimmed": false,
+      "sourceSize": {
+        "w": 327,
+        "h": 305
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 327,
+        "h": 305
+      }
+    },
+    "earth_elemental_hit2": {
+      "frame": {
+        "x": 327,
+        "y": 0,
+        "w": 327,
+        "h": 305
+      },
+      "rotated": false,
+      "trimmed": false,
+      "sourceSize": {
+        "w": 327,
+        "h": 305
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 327,
+        "h": 305
+      }
+    },
+    "earth_elemental_hit3": {
+      "frame": {
+        "x": 654,
+        "y": 0,
+        "w": 327,
+        "h": 305
+      },
+      "rotated": false,
+      "trimmed": false,
+      "sourceSize": {
+        "w": 327,
+        "h": 305
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 327,
+        "h": 305
+      }
+    }
+  },
+  "meta": {
+    "app": "manual",
+    "version": "1.0",
+    "image": "earth_elemental_hit.png",
+    "format": "RGBA888888",
+    "size": {
+      "w": 1024,
+      "h": 512
+    },
+    "scale": "1"
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "frames": {
+    "bg_meter_bar1": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 30,
+        "h": 62
+      },
+      "rotated": false,
+      "trimmed": false,
+      "sourceSize": {
+        "w": 30,
+        "h": 62
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 30,
+        "h": 62
+      }
+    },
+    "bg_meter_bar2": {
+      "frame": {
+        "x": 30,
+        "y": 0,
+        "w": 40,
+        "h": 62
+      },
+      "rotated": false,
+      "trimmed": false,
+      "sourceSize": {
+        "w": 40,
+        "h": 62
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 40,
+        "h": 62
+      }
+    },
+    "bg_meter_bar3": {
+      "frame": {
+        "x": 70,
+        "y": 0,
+        "w": 30,
+        "h": 62
+      },
+      "rotated": false,
+      "trimmed": false,
+      "sourceSize": {
+        "w": 30,
+        "h": 62
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 30,
+        "h": 62
+      }
+    }
+  },
+  "meta": {
+    "app": "manual",
+    "version": "1.0",
+    "image": "bg_meter_bar.png",
+    "format": "RGBA888888",
+    "size": {
+      "w": 100,
+      "h": 62
+    },
+    "scale": "1"
+  }
+}

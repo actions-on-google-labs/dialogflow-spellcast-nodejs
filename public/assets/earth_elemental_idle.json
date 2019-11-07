@@ -1,0 +1,255 @@
+{
+  "frames": {
+    "earth_elemental_idle1": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 270,
+        "h": 243
+      },
+      "rotated": false,
+      "trimmed": false,
+      "sourceSize": {
+        "w": 270,
+        "h": 243
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 270,
+        "h": 243
+      }
+    },
+    "earth_elemental_idle2": {
+      "frame": {
+        "x": 270,
+        "y": 0,
+        "w": 270,
+        "h": 243
+      },
+      "rotated": false,
+      "trimmed": false,
+      "sourceSize": {
+        "w": 270,
+        "h": 243
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 270,
+        "h": 243
+      }
+    },
+    "earth_elemental_idle3": {
+      "frame": {
+        "x": 540,
+        "y": 0,
+        "w": 270,
+        "h": 243
+      },
+      "rotated": false,
+      "trimmed": false,
+      "sourceSize": {
+        "w": 270,
+        "h": 243
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 270,
+        "h": 243
+      }
+    },
+    "earth_elemental_idle4": {
+      "frame": {
+        "x": 0,
+        "y": 243,
+        "w": 270,
+        "h": 243
+      },
+      "rotated": false,
+      "trimmed": false,
+      "sourceSize": {
+        "w": 270,
+        "h": 243
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 270,
+        "h": 243
+      }
+    },
+    "earth_elemental_idle5": {
+      "frame": {
+        "x": 270,
+        "y": 243,
+        "w": 270,
+        "h": 243
+      },
+      "rotated": false,
+      "trimmed": false,
+      "sourceSize": {
+        "w": 270,
+        "h": 243
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 270,
+        "h": 243
+      }
+    },
+    "earth_elemental_idle6": {
+      "frame": {
+        "x": 540,
+        "y": 243,
+        "w": 270,
+        "h": 243
+      },
+      "rotated": false,
+      "trimmed": false,
+      "sourceSize": {
+        "w": 270,
+        "h": 243
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 270,
+        "h": 243
+      }
+    },
+    "earth_elemental_idle7": {
+      "frame": {
+        "x": 0,
+        "y": 486,
+        "w": 270,
+        "h": 243
+      },
+      "rotated": false,
+      "trimmed": false,
+      "sourceSize": {
+        "w": 270,
+        "h": 243
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 270,
+        "h": 243
+      }
+    },
+    "earth_elemental_idle8": {
+      "frame": {
+        "x": 270,
+        "y": 486,
+        "w": 270,
+        "h": 243
+      },
+      "rotated": false,
+      "trimmed": false,
+      "sourceSize": {
+        "w": 270,
+        "h": 243
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 270,
+        "h": 243
+      }
+    },
+    "earth_elemental_idle9": {
+      "frame": {
+        "x": 540,
+        "y": 486,
+        "w": 270,
+        "h": 243
+      },
+      "rotated": false,
+      "trimmed": false,
+      "sourceSize": {
+        "w": 270,
+        "h": 243
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 270,
+        "h": 243
+      }
+    },
+    "earth_elemental_idle10": {
+      "frame": {
+        "x": 0,
+        "y": 729,
+        "w": 270,
+        "h": 243
+      },
+      "rotated": false,
+      "trimmed": false,
+      "sourceSize": {
+        "w": 270,
+        "h": 243
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 270,
+        "h": 243
+      }
+    },
+    "earth_elemental_idle11": {
+      "frame": {
+        "x": 270,
+        "y": 729,
+        "w": 270,
+        "h": 243
+      },
+      "rotated": false,
+      "trimmed": false,
+      "sourceSize": {
+        "w": 270,
+        "h": 243
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 270,
+        "h": 243
+      }
+    },
+    "earth_elemental_idle12": {
+      "frame": {
+        "x": 540,
+        "y": 729,
+        "w": 270,
+        "h": 243
+      },
+      "rotated": false,
+      "trimmed": false,
+      "sourceSize": {
+        "w": 270,
+        "h": 243
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 270,
+        "h": 243
+      }
+    }
+  },
+  "meta": {
+    "app": "manual",
+    "version": "1.0",
+    "image": "earth_elemental_idle.png",
+    "format": "RGBA888888",
+    "size": {
+      "w": 1024,
+      "h": 1024
+    },
+    "scale": "1"
+  }
+}

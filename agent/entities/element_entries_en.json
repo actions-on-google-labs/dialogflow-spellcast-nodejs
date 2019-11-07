@@ -1,0 +1,26 @@
+[
+  {
+    "value": "air",
+    "synonyms": [
+      "air"
+    ]
+  },
+  {
+    "value": "earth",
+    "synonyms": [
+      "earth"
+    ]
+  },
+  {
+    "value": "fire",
+    "synonyms": [
+      "fire"
+    ]
+  },
+  {
+    "value": "water",
+    "synonyms": [
+      "water"
+    ]
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "id": "851f2e16-8f65-4a83-a07c-51d657e8b602",
+    "data": [
+      {
+        "text": "more health",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9caa54ba-9300-4e70-9112-dbb0b21e206d",
+    "data": [
+      {
+        "text": "add health",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3a0a2c4a-ecfb-4066-8fd0-32c21a4ac802",
+    "data": [
+      {
+        "text": "heal self",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9725d9bf-488c-4d10-aa66-c49ce1fe0704",
+    "data": [
+      {
+        "text": "heal the wizards",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "31e9bc51-2aeb-4cb8-adaa-94beb73342b1",
+    "data": [
+      {
+        "text": "heal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a4456993-c142-4bc0-bc43-720b82f3304d",
+    "data": [
+      {
+        "text": "use health",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "788bae34-97ee-42c2-b7f1-1bd6e8ed5833",
+    "data": [
+      {
+        "text": "health",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

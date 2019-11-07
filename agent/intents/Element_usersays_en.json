@@ -1,0 +1,196 @@
+[
+  {
+    "id": "b7d361bd-3264-49d9-85b7-c2f6a16a311f",
+    "data": [
+      {
+        "text": "now ",
+        "userDefined": false
+      },
+      {
+        "text": "fire",
+        "alias": "element",
+        "meta": "@element",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b6e1239a-5569-44fc-b5d9-0f2300cd48eb",
+    "data": [
+      {
+        "text": "pick ",
+        "userDefined": false
+      },
+      {
+        "text": "earth",
+        "alias": "element",
+        "meta": "@element",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ef89c4ba-f1be-4d69-8d8c-8a455cc32426",
+    "data": [
+      {
+        "text": "use ",
+        "userDefined": false
+      },
+      {
+        "text": "air",
+        "alias": "element",
+        "meta": "@element",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c7c0947d-4b18-4300-abb2-b3b02cc7916d",
+    "data": [
+      {
+        "text": "select the ",
+        "userDefined": false
+      },
+      {
+        "text": "air",
+        "alias": "element",
+        "meta": "@element",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "aa9d9a29-b9bc-430d-bec5-f50fda4863a2",
+    "data": [
+      {
+        "text": "pick ",
+        "userDefined": false
+      },
+      {
+        "text": "water",
+        "alias": "element",
+        "meta": "@element",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dd621bd5-6e48-443f-b52e-58f1d44ad90e",
+    "data": [
+      {
+        "text": "fire",
+        "alias": "element",
+        "meta": "@element",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "790da199-32a6-4dde-91db-59d69531bfac",
+    "data": [
+      {
+        "text": "use the ",
+        "userDefined": false
+      },
+      {
+        "text": "fire",
+        "alias": "element",
+        "meta": "@element",
+        "userDefined": true
+      },
+      {
+        "text": " element",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "37b66cee-6504-4784-9d3e-ee8d44298ed1",
+    "data": [
+      {
+        "text": "try the ",
+        "userDefined": false
+      },
+      {
+        "text": "earth",
+        "alias": "element",
+        "meta": "@element",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9d9b6765-2d11-4fa0-a6c4-5c40b357d320",
+    "data": [
+      {
+        "text": "use ",
+        "userDefined": false
+      },
+      {
+        "text": "fire",
+        "alias": "element",
+        "meta": "@element",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a823a9e8-a409-4e70-a036-9bdb01ed631a",
+    "data": [
+      {
+        "text": "select ",
+        "userDefined": false
+      },
+      {
+        "text": "water",
+        "alias": "element",
+        "meta": "@element",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8cb127d8-a7d6-4c38-97ff-0c8a9e55f4e2",
+    "data": [
+      {
+        "text": "air",
+        "alias": "element",
+        "meta": "@element",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

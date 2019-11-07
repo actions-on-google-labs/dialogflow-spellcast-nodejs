@@ -1,0 +1,95 @@
+{
+    "frames": {
+        "wizard_1": {
+            "frame": {
+                "x": 0,
+                "y": 0,
+                "w": 104,
+                "h": 132
+            },
+            "rotated": false,
+            "trimmed": false,
+            "sourceSize": {
+                "w": 104,
+                "h": 132
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 104,
+                "h": 132
+            }
+        },
+        "wizard_2": {
+            "frame": {
+                "x": 105,
+                "y": 0,
+                "w": 113,
+                "h": 132
+            },
+            "rotated": false,
+            "trimmed": false,
+            "sourceSize": {
+                "w": 113,
+                "h": 132
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 113,
+                "h": 132
+            }
+        },
+        "wizard_3": {
+            "frame": {
+                "x": 230,
+                "y": 0,
+                "w": 114,
+                "h": 132
+            },
+            "rotated": false,
+            "trimmed": false,
+            "sourceSize": {
+                "w": 114,
+                "h": 132
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 114,
+                "h": 132
+            }
+        },
+        "wizard_4": {
+            "frame": {
+                "x": 346,
+                "y": 0,
+                "w": 127,
+                "h": 132
+            },
+            "rotated": false,
+            "trimmed": false,
+            "sourceSize": {
+                "w": 127,
+                "h": 132
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 127,
+                "h": 132
+            }
+        }
+    },
+    "meta": {
+        "app": "manual",
+        "version": "1.0",
+        "image": "wizards.png",
+        "format": "RGBA8888",
+        "size": {
+            "w": 473,
+            "h": 133
+        },
+        "scale": "1"
+    }
+}

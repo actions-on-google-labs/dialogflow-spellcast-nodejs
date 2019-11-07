@@ -1,0 +1,255 @@
+{
+  "frames": {
+    "water_explosion1": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 334,
+        "h": 232
+      },
+      "rotated": false,
+      "trimmed": false,
+      "sourceSize": {
+        "w": 334,
+        "h": 232
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 334,
+        "h": 232
+      }
+    },
+    "water_explosion2": {
+      "frame": {
+        "x": 334,
+        "y": 0,
+        "w": 334,
+        "h": 232
+      },
+      "rotated": false,
+      "trimmed": false,
+      "sourceSize": {
+        "w": 334,
+        "h": 232
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 334,
+        "h": 232
+      }
+    },
+    "water_explosion3": {
+      "frame": {
+        "x": 668,
+        "y": 0,
+        "w": 334,
+        "h": 232
+      },
+      "rotated": false,
+      "trimmed": false,
+      "sourceSize": {
+        "w": 334,
+        "h": 232
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 334,
+        "h": 232
+      }
+    },
+    "water_explosion4": {
+      "frame": {
+        "x": 0,
+        "y": 232,
+        "w": 334,
+        "h": 232
+      },
+      "rotated": false,
+      "trimmed": false,
+      "sourceSize": {
+        "w": 334,
+        "h": 232
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 334,
+        "h": 232
+      }
+    },
+    "water_explosion5": {
+      "frame": {
+        "x": 334,
+        "y": 232,
+        "w": 334,
+        "h": 232
+      },
+      "rotated": false,
+      "trimmed": false,
+      "sourceSize": {
+        "w": 334,
+        "h": 232
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 334,
+        "h": 232
+      }
+    },
+    "water_explosion6": {
+      "frame": {
+        "x": 668,
+        "y": 232,
+        "w": 334,
+        "h": 232
+      },
+      "rotated": false,
+      "trimmed": false,
+      "sourceSize": {
+        "w": 334,
+        "h": 232
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 334,
+        "h": 232
+      }
+    },
+    "water_explosion7": {
+      "frame": {
+        "x": 0,
+        "y": 464,
+        "w": 334,
+        "h": 232
+      },
+      "rotated": false,
+      "trimmed": false,
+      "sourceSize": {
+        "w": 334,
+        "h": 232
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 334,
+        "h": 232
+      }
+    },
+    "water_explosion8": {
+      "frame": {
+        "x": 334,
+        "y": 464,
+        "w": 334,
+        "h": 232
+      },
+      "rotated": false,
+      "trimmed": false,
+      "sourceSize": {
+        "w": 334,
+        "h": 232
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 334,
+        "h": 232
+      }
+    },
+    "water_explosion9": {
+      "frame": {
+        "x": 668,
+        "y": 464,
+        "w": 334,
+        "h": 232
+      },
+      "rotated": false,
+      "trimmed": false,
+      "sourceSize": {
+        "w": 334,
+        "h": 232
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 334,
+        "h": 232
+      }
+    },
+    "water_explosion10": {
+      "frame": {
+        "x": 0,
+        "y": 696,
+        "w": 334,
+        "h": 232
+      },
+      "rotated": false,
+      "trimmed": false,
+      "sourceSize": {
+        "w": 334,
+        "h": 232
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 334,
+        "h": 232
+      }
+    },
+    "water_explosion11": {
+      "frame": {
+        "x": 334,
+        "y": 696,
+        "w": 334,
+        "h": 232
+      },
+      "rotated": false,
+      "trimmed": false,
+      "sourceSize": {
+        "w": 334,
+        "h": 232
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 334,
+        "h": 232
+      }
+    },
+    "water_explosion12": {
+      "frame": {
+        "x": 668,
+        "y": 696,
+        "w": 334,
+        "h": 232
+      },
+      "rotated": false,
+      "trimmed": false,
+      "sourceSize": {
+        "w": 334,
+        "h": 232
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 334,
+        "h": 232
+      }
+    }
+  },
+  "meta": {
+    "app": "manual",
+    "version": "1.0",
+    "image": "water_explosion.png",
+    "format": "RGBA888888",
+    "size": {
+      "w": 1024,
+      "h": 1024
+    },
+    "scale": "1"
+  }
+}
